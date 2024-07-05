@@ -1,0 +1,15 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;   
+    background-image: url(../img/One\ Piece\ -\ Wano.jfif);
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+h2 {
+    color: red;
+    text-shadow: 3px 3px black;
+}
+
+img {
+    width: 10%;
+}
